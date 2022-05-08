@@ -1,0 +1,30 @@
+# Objetivo
+
+  Este Repositorio tem como objetivo dar uma previa de comandos e utiização de um sistema de versionamento de codigo mais utilizado na atualidade.
+
+# De fato O que è Git e Github?
+
+Como ja Dito Acima, é um sistema de versionamnto de codigo, uma plataforma onde você pode gerenciar seu código e criar um ambiente de colaboração entre devs,
+utilizando o Git como sistema de controle.
+ Onde você deixando Seus repositorios como publicos outras pessoas poderão aprender e contribuir com o desenvolmento do seu codigo, 
+ e empresas tambem poderão ver o quanto você esta antenado e se desenvolvendo dentro da area escolhida. Legal né!?
+
+# Show legal como posso ter uma pagina no Github?
+ 
+Bora lá!? 
+
+Passo 1 é você criar uma conta no github https://github.com.
+Passo 2 Você precisa baixar o git na sua maquina [https://git-scm.com/downloads].
+Caso você encontre dificuldades para instalação e configuração do git acesse este link será muito util [https://youtu.be/SOxafinthys]
+
+ O sistema configurado na sua maquina, vamos criar nosso primeiro repositorio.
+
+
+Criando um repositorio
+
+ Bom de uma forma rapida vamos criar uma repositorio  diretamente no github e clonar para nossa maquina 
+Segue um video bacana par aprendermos juntos
+
+link [https://youtu.be/5BYm7UdCrX0]
+
+Bom galera é isso agradeço a todos, este tambem é meu primeiro repositorio do desafio git da DIO, desculpa alguma coisa estou tambem aprendendo
